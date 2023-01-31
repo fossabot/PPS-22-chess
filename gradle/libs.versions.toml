@@ -4,7 +4,7 @@ scalatest-version = "3.2.15"
 spotless-version = "6.14.0"
 scalafmt-version = "3.7.1"
 wartremover-version = "3.0.9"
-kotlin-qa-version = "0.2.1"
+kotlin-qa-version = "0.33.0"
 # insert the versions of the dependencies here...
 
 [libraries]
